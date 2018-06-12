@@ -1,0 +1,36 @@
+﻿[
+  {
+    "dayOfWeek": 1,
+    "events": [
+      {
+        "number": 1,
+        "name": "Deutsch",
+        "location": null,
+        "timeRange": null
+      },
+      {
+        "number": 2,
+        "name": "Deutsch",
+        "location": null,
+        "timeRange": null
+      }
+    ]
+  },
+  {
+    "dayOfWeek": 2,
+    "events": [
+      {
+        "number": 1,
+        "name": "Kunst",
+        "location": null,
+        "timeRange": null
+      },
+      {
+        "number": 2,
+        "name": "Kunst",
+        "location": null,
+        "timeRange": null
+      }
+    ]
+  }
+]

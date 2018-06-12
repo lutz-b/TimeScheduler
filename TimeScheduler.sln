@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeScheduler.Local", "TimeScheduler.Local\TimeScheduler.Local.csproj", "{BA2F8FED-FE46-495C-B0AC-14A4DA3C27BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeScheduler.Models", "TimeScheduler.Models\TimeScheduler.Models.csproj", "{01D1B5DD-7331-42F3-A11D-D4AA9C122716}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BA2F8FED-FE46-495C-B0AC-14A4DA3C27BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA2F8FED-FE46-495C-B0AC-14A4DA3C27BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA2F8FED-FE46-495C-B0AC-14A4DA3C27BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D1B5DD-7331-42F3-A11D-D4AA9C122716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D1B5DD-7331-42F3-A11D-D4AA9C122716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D1B5DD-7331-42F3-A11D-D4AA9C122716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D1B5DD-7331-42F3-A11D-D4AA9C122716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
